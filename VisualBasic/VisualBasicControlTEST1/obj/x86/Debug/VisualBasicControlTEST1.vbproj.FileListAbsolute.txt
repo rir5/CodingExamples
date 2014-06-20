@@ -1,0 +1,21 @@
+C:\Users\LAP\Documents\Visual Studio 2010\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\bin\Debug\VisualBasicControlTEST1.exe
+C:\Users\LAP\Documents\Visual Studio 2010\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\bin\Debug\VisualBasicControlTEST1.pdb
+C:\Users\LAP\Documents\Visual Studio 2010\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\bin\Debug\VisualBasicControlTEST1.xml
+C:\Users\LAP\Documents\Visual Studio 2010\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LAP\Documents\Visual Studio 2010\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\LAP\Documents\Visual Studio 2010\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\LAP\Documents\Visual Studio 2010\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\LAP\Documents\Visual Studio 2010\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\LAP\Documents\Visual Studio 2010\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\obj\x86\Debug\VisualBasicControlTEST1.exe
+C:\Users\LAP\Documents\Visual Studio 2010\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\obj\x86\Debug\VisualBasicControlTEST1.xml
+C:\Users\LAP\Documents\Visual Studio 2010\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\obj\x86\Debug\VisualBasicControlTEST1.pdb
+C:\Users\LAP\Documents\Visual Studio 2010\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\bin\Debug\VisualBasicControlTEST1.exe.manifest
+C:\Users\LAP\Documents\Visual Studio 2010\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\bin\Debug\VisualBasicControlTEST1.application
+C:\Users\LAP\Documents\Visual Studio 2010\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\obj\x86\Debug\VisualBasicControlTEST1.exe.manifest
+C:\Users\LAP\Documents\Visual Studio 2010\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\obj\x86\Debug\VisualBasicControlTEST1.application
+F:\lol\!ms Projects\PhysicsLabs\New folder\RemoteControlTest7\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\obj\x86\Debug\VisualBasicControlTEST1.exe
+F:\lol\!ms Projects\PhysicsLabs\New folder\RemoteControlTest7\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\obj\x86\Debug\VisualBasicControlTEST1.xml
+F:\lol\!ms Projects\PhysicsLabs\New folder\RemoteControlTest7\Projects\VisualBasicControlTEST1\VisualBasicControlTEST1\obj\x86\Debug\VisualBasicControlTEST1.pdb
+C:\Users\MacPro\Desktop\VisualBasicControlTEST1\VisualBasicControlTEST1\obj\x86\Debug\VisualBasicControlTEST1.exe
+C:\Users\MacPro\Desktop\VisualBasicControlTEST1\VisualBasicControlTEST1\obj\x86\Debug\VisualBasicControlTEST1.xml
+C:\Users\MacPro\Desktop\VisualBasicControlTEST1\VisualBasicControlTEST1\obj\x86\Debug\VisualBasicControlTEST1.pdb
