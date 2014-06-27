@@ -1,4 +1,3 @@
-// Example by Tom Igoe
 import processing.serial.*;
 Serial myPort;
 
